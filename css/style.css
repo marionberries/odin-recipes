@@ -1,5 +1,10 @@
-.pic{
+.pic-container{
     text-align: center;
+}
+/*Realized that you need to make a container for the picture for 
+text-align:center to center the picture*/
+
+.pic{
     width: 300px;
     height: auto;
 }
